@@ -1,0 +1,10 @@
+/SQL
+  └─ basic_queries.sql
+  └─ intermediate_queries.sql
+  └─ advanced_queries.sql
+/Python
+  └─ sales_cleaning.ipynb
+  └─ trend_analysis.ipynb
+/PowerBI
+  └─ dashboard.pbix
+  └─ screenshots/
